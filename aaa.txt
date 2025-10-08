@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 bbbBBB
-=======
+
 bbbAAA
->>>>>>> baff32a21623540c1416bab9bdff4ce995e32140
